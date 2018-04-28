@@ -15,7 +15,7 @@ Go to http://localhost:3000/
 # Test with Jest
 <code>npm run test</code>
 
-# About the app
+# About the App
 Lightweight, fast, functional, and devoid of side-effects.
 
 Server Side Rendering (SSR) which is faster than Client Side rendering for single page applications (like this one). HTML is directly served to the page before Javascript is loaded. To enable this, Next.js was used which is a framework which wraps React. More info about Next.js here: https://github.com/zeit/next.js/
