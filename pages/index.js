@@ -1,6 +1,6 @@
 import React from 'react';
 import { initStore } from '../store/store';
-import withRedux from '../utils/withRedux';
+import withRedux from 'next-redux-wrapper';
 import Page from '../components/Page';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
