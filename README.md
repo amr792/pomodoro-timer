@@ -1,6 +1,6 @@
 # Pomodoro-Timer
-## Functional React-Redux app using server side rendering with next.js, testing with jest, material-ui, and redux-observables.
-## Deployed: https://pomodoro-timer-vrqgfvfyrl.now.sh/
+### Functional React-Redux app using server side rendering with next.js, testing with jest, material-ui, and redux-observables.
+### Deployed: https://pomodoro-timer-vrqgfvfyrl.now.sh/
 
 # Install & Run
 ## git clone https://github.com/amr792/pomodoro-timer.git
