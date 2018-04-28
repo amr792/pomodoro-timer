@@ -5,8 +5,8 @@
 # Install & Run
 git clone https://github.com/amr792/pomodoro-timer.git
 npm install
-npm run dev
-Go to http://localhost:3000/
+npm run dev \n
+Go to http://localhost:3000/ \n
 
 # Test with Jest
 ## npm run test
