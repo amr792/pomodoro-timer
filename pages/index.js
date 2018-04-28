@@ -8,7 +8,7 @@ class PomodoroTimer extends React.Component {
   render () {
     return (
         <MuiThemeProvider>
-          <Page title='Pomodoro Timer' />
+          <Page />
         </MuiThemeProvider>
     )
   }

@@ -21,11 +21,11 @@ export default ({ seconds }) => {
 const format = t => {
     var minutes = Math.floor((t / 60));
     if(minutes < 10){
-        minutes = "0" +minutes;
+        minutes = "0" + minutes;
     }
     var seconds = t % 60;
     if(seconds < 10){
-        seconds = "0" +seconds;
+        seconds = "0" + seconds;
     }
     return minutes + ':' + seconds;
 };
