@@ -3,10 +3,10 @@
 ### Deployed: https://pomodoro-timer-vrqgfvfyrl.now.sh/
 
 # Install & Run
-## git clone https://github.com/amr792/pomodoro-timer.git
-## npm install
-## npm run dev
-## Go to http://localhost:3000/
+git clone https://github.com/amr792/pomodoro-timer.git
+npm install
+npm run dev
+Go to http://localhost:3000/
 
 # Test with Jest
 ## npm run test
