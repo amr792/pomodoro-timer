@@ -23,4 +23,3 @@ tape('Increment round along with status message', function (test) {
 
     test.end()
 });
-
