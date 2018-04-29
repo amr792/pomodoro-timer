@@ -18,9 +18,9 @@ Go to http://localhost:3000/
 # About the App
 Lightweight, fast, functional, and devoid of side-effects.
 
-Server Side Rendering (SSR) which is faster than Client Side rendering for single page applications (like this one). HTML is directly served to the page before Javascript is loaded. To enable this, Next.js was used which is a framework which wraps React. More info about Next.js here: https://github.com/zeit/next.js/
+Server Side Rendering (SSR) which is faster than Client Side rendering for single page applications (like this one). HTML is directly served before Javascript is finished loading. Next.js wraps React and enables SSR by default. More info about Next.js here: https://github.com/zeit/next.js/
 
-Redux-Observables using Epics which enables the app to avoid all side-effects. Takes in a stream of action and dispatches additional actions based on a one-way data flow design pattern.
+Redux-Observables using Epics to avoid any side-effects. Epics take in a stream of action and dispatches additional actions based on a one-way data flow design pattern.
 
 Jest enables easy, modular, and exhaustive testing.
 
